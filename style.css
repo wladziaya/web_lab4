@@ -1,0 +1,16 @@
+button {
+    font-family: inherit;
+    font-size: inherit;
+}
+
+#first-line {
+    cursor: pointer;
+}
+#second-line {
+    cursor: pointer;
+}
+
+#imagesContainer img {
+    width: 300px;
+    padding: 5px;
+}
