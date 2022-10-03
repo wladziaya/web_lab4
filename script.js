@@ -14,7 +14,7 @@ secondLine.onclick = () => changeColor(secondLine)
 const imagesDiv = document.querySelector("#imagesContainer")
 
 const addImg = () => {
-    imagesDiv.insertAdjacentHTML('beforeend', '<img src="https://thumbs.dreamstime.com/b/beautiful-rain-forest-ang-ka-nature-trail-doi-inthanon-national-park-thailand-36703721.jpg">');
+    imagesDiv.insertAdjacentHTML('beforeend', '<img src="https://www.ulemiste.ee/wordpress/wp-content/uploads/2016/10/nature-wallpaper-07.jpg">');
 }
 
 const scaleUp = () => {
